@@ -10,8 +10,7 @@
 
 <a href="https://t.me/voxidjonovabduxalil"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="mailto:abduhalilvohidjonov@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="tel:+998906323900"><img src="https://img.shields.io/badge/+998_90_632_39_00-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=AbduxalilVoxidjonov&style=for-the-badge&color=1f6feb&label=PROFIL+KO'RISHLAR" />
+<a href="https://wa.me/998906323900"><img src="https://img.shields.io/badge/+998_90_632_39_00-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 <br/><br/>
 
