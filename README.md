@@ -13,30 +13,7 @@
 <a href="tel:+998906323900"><img src="https://img.shields.io/badge/+998_90_632_39_00-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=AbduxalilVoxidjonov&style=for-the-badge&color=1f6feb&label=PROFIL+KO'RISHLAR" />
 
-</div>
-
----
-
-## 📊 GitHub statistikasi
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AbduxalilVoxidjonov&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2f81f7&icon_color=2f81f7" />
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbduxalilVoxidjonov&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2f81f7" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=AbduxalilVoxidjonov&theme=github-dark-blue&hide_border=true&background=0d1117&ring=2f81f7&fire=f38020&currStreakLabel=2f81f7" />
-
 <br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbduxalilVoxidjonov&theme=github-compact&bg_color=0d1117&color=2f81f7&line=2f81f7&point=39d353&area=true&hide_border=true" width="100%" />
-
-</div>
-
----
-
-<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbduxalilVoxidjonov/AbduxalilVoxidjonov/output/snake-dark.svg" />
