@@ -17,42 +17,6 @@
 
 ---
 
-## 🧑‍💻 Men haqimda
-
-```csharp
-public class Abduxalil : IDeveloper, IDevOps
-{
-    public string Ism      => "Voxidjonov Abduxalil Abdufattox o'g'li";
-    public string Rol      => "Full-Stack Developer & IT Infrastructure Specialist";
-    public string Manzil   => "Toshkent • Qo'qon • Farg'ona";
-    public string Talim    => "Korea International University in Ferghana (KIUF), 2025";
-
-    public string[] Falsafam => new[]
-    {
-        "Kodni yozishdan deploy qilishgacha — to'liq mas'uliyat mening zimmamda",
-        "Clean Architecture, real-time va avtomatlashtirish",
-        "Real foydalanuvchilarga xizmat qilayotgan tizimlar qurish"
-    };
-}
-```
-
-**ASP.NET Core, React va Kotlin**'da ishlab chiqishdan tortib, tizimlarni **Docker** va **Cloudflare Tunnel** yordamida mustaqil deploy qilish va yuritishgacha bo'lgan to'liq boshqaruvni o'zim olib boraman. O'quv markazi uchun ishga tushirilgan **CRM/LMS**, **kirishni nazorat qilish (turniket)** tizimi va **onlayn imtihon platformasi** kabi bugun ham ishlab turgan real proyektlarim mavjud.
-
-<br/>
-
-<div align="center">
-
-| 🎯 | |
-|:---|:---|
-| 🏗️ | **Clean Architecture** • SignalR real-time • JWT autentifikatsiya • EF migratsiyalar |
-| 🚀 | **3 ta live proyekt** production'da ishlamoqda |
-| 🐳 | Server portlarini internetga ochmasdan xavfsiz **self-hosting** |
-| 🤖 | **Claude, Codex, Kimi** — AI vositalari orqali proyekt boshqaruvi |
-
-</div>
-
----
-
 ## 🛠️ Texnologiyalar
 
 <div align="center">
@@ -100,132 +64,6 @@ public class Abduxalil : IDeveloper, IDevOps
 
 ---
 
-## 🚀 Loyihalar
-
-### 🎓 IntellectCRM — O'quv markazi uchun to'liq CRM + LMS platformasi
-> **[🔗 intellectschool.uz](https://intellectschool.uz/)** &nbsp;•&nbsp; `Production` &nbsp;•&nbsp; Eng yirik proyektim
-
-Bitta backend'ga ulangan **3 ta alohida portal**: admin panel, o'qituvchi ilovasi va o'quvchi/ota-ona ilovasi — foydalanuvchi roliga qarab avtomatik ochiladi.
-
-<table>
-<tr><td width="50%" valign="top">
-
-**📊 CRM moduli**
-- Lidlar kanbani va sinov darslari
-- Konversiya statistikasi
-- Marketing agentlari uchun panel
-- Call-operatorlar uchun alohida ilova: qo'ng'iroqlarni yozib olish va tahlil
-
-**📚 LMS moduli**
-- Guruhlar va oylik jurnal (baho/davomat)
-- O'quv dasturi yo'l-xaritasi
-- Kurs tugash prognozi
-
-</td><td width="50%" valign="top">
-
-**💰 Moliya moduli**
-- Kirim/chiqim va oylik hisob-kitob
-- Kurs/guruh bo'yicha daromad hisoboti
-- O'qituvchi maoshini avtomatik hisoblash
-
-**⚡ Texnik yechimlar**
-- Real-time chat (SignalR + Firebase push)
-- Kamera va turniket orqali to'liq nazorat
-- Shartnoma/hisobotlar — OpenXML generatsiya
-- Docker Compose deploy, Cloudflare Tunnel orqali xavfsiz nashr — server portlari internetga ochilmaydi
-
-</td></tr>
-</table>
-
-```
-ASP.NET Core 8 (Clean Architecture) · EF Core · PostgreSQL · SignalR · JWT
-React 19 + TypeScript · Tailwind · Flutter WebView · FCM · Docker Compose · Cloudflare Tunnel
-```
-
-<br/>
-
-### 🔐 SecureGate — Kirishni nazorat qilish / turniket tizimi
-> **[🔗 securegate.uz](https://securegate.uz/)** &nbsp;•&nbsp; `Production`
-
-O'quv muassasasi yoki obyektga kirish-chiqishni **real vaqtda** nazorat qiluvchi turniket boshqaruv tizimi. Foydalanuvchilarni identifikatsiya qilish, kirish jurnalini yuritish va ma'muriyat uchun hisobotlar. Axborot xavfsizligi va infratuzilma yo'nalishidagi amaliy tajribani namoyish etadi.
-
-```
-ASP.NET Core · SignalR (real-time kirish/chiqish) · PostgreSQL
-```
-
-<br/>
-
-### 📝 MultiExam — Onlayn imtihon va testlash platformasi
-> **[🔗 multiexam.uz](https://multiexam.uz/)** &nbsp;•&nbsp; `Production`
-
-Ko'p turdagi onlayn testlarni yaratish, o'tkazish va **avtomatik baholash** uchun platforma. Mock to'plamlari, foydalanuvchilar ro'yxati va natijalar bo'yicha statistik tahlil.
-
-```
-ASP.NET Core Web API · React
-```
-
-<br/>
-
-### 🤖 Javobot — Ko'p kanalli AI avtojavob SaaS platformasi
-> **[📦 github.com/AbduxalilVoxidjonov/Javobot](https://github.com/AbduxalilVoxidjonov/Javobot)**
-
-**Instagram, Telegram, WhatsApp va Messenger** orqali kelgan mijoz xabarlariga avtomatik javob beradigan SaaS platforma. Kalit so'z bo'yicha javob qoidalarini yaratadi; qoidaga tushmagan savollarga esa **Claude, Gemini va boshqa AI**'lar yordamida biznes kontekstiga tayanib tabiiy javob beradi. Barcha suhbatlar **yagona Inbox**da real vaqtda jamlanadi.
-
-<br/>
-
-### 🏫 SchoolLms — Maktab uchun ta'limni boshqarish tizimi
-> **[📦 github.com/AbduxalilVoxidjonov/SchoolLms](https://github.com/AbduxalilVoxidjonov/SchoolLms)**
-
-Maktab jarayonlari — o'quvchilar, sinflar, baholar va davomat — uchun boshqaruv tizimi.
-
-<br/>
-
-### ☎️ Call-center Desktop — GSM-to-VoIP call-markaz ilovasi
-> **[📦 github.com/AbduxalilVoxidjonov/Call-center-desktop](https://github.com/AbduxalilVoxidjonov/Call-center-desktop)**
-
-Windows uchun desktop (`.exe`) ilova — GSM-to-VoIP tizimida ishlaydigan call-markaz operatorlari uchun mo'ljallangan.
-
----
-
-## 💼 Ish tajribasi
-
-<table>
-<tr>
-<td width="140" valign="top"><b>May 2024 —<br/>Hozirgacha</b></td>
-<td valign="top">
-
-**Administrator / IT** &nbsp;·&nbsp; [Intellekt Kokand](https://intellectschool.uz/) *(o'quv markazi)*
-<br/>O'quv jarayonini tashkil qilish va ta'lim sifatini nazorat qilish. Markaz uchun **IntellectCRM** (CRM + LMS) tizimini noldan ishlab chiqib, ishga tushirdim va yuritdim — lidlar, moliya, jurnal va uchta portal. Markaz veb-saytini yaratdim va boshqardim.
-
-</td></tr>
-<tr>
-<td width="140" valign="top"><b>Avgust 2024 —<br/>Hozirgacha</b></td>
-<td valign="top">
-
-**Maktab ERP administratori** &nbsp;·&nbsp; Iqtidor Ziyo *(masofadan)*
-<br/>`erp.maktab.uz`, `my.maktab.uz`, `adm.maktab.uz`, `emaktab.uz` platformalarini boshqarish.
-
-</td></tr>
-<tr>
-<td width="140" valign="top"><b>Yanvar —<br/>Fevral 2026</b></td>
-<td valign="top">
-
-**IT bo'limi xodimi** &nbsp;·&nbsp; [EMU University](https://www.emuni.uz/uz)
-<br/>Infratuzilma va texnik qo'llab-quvvatlash: universitet kameralari, interaktiv doskalarga texnik xizmat, printer sozlamalari, LAN kabellarni tortish va yagona tarmoqqa ulash.
-
-</td></tr>
-<tr>
-<td width="140" valign="top"><b>Sentyabr 2023 —<br/>May 2024</b></td>
-<td valign="top">
-
-**IT bo'limi xodimi / Dekan yordamchisi** &nbsp;·&nbsp; [Koreya Xalqaro Universiteti (Farg'ona)](https://www.ukiu.uz/uz/)
-<br/>IT bo'limida infratuzilma va texnik qo'llab-quvvatlash ishlari. O'quv bo'limida ma'muriy jarayonlarni tashkil qilishda dekanga yordam.
-
-</td></tr>
-</table>
-
----
-
 ## 🎓 Ta'lim va sertifikatlar
 
 - 🏛️ **Korea International University in Ferghana (KIUF)** — Bakalavr, *Internet va axborot kommunikatsiyalari (Dasturchi)*, 2025
@@ -253,8 +91,6 @@ Windows uchun desktop (`.exe`) ilova — GSM-to-VoIP tizimida ishlaydigan call-m
 
 ---
 
-## 🐍 Commit'larim ilon uslubida
-
 <div align="center">
 
 <picture>
@@ -262,40 +98,6 @@ Windows uchun desktop (`.exe`) ilova — GSM-to-VoIP tizimida ishlaydigan call-m
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbduxalilVoxidjonov/AbduxalilVoxidjonov/output/snake.svg" />
   <img alt="Contribution graph snake animation" src="https://raw.githubusercontent.com/AbduxalilVoxidjonov/AbduxalilVoxidjonov/output/snake.svg" width="100%" />
 </picture>
-
-<sub>Ilon har 12 soatda GitHub Actions orqali avtomatik qayta yaratiladi 🤖</sub>
-
-</div>
-
----
-
-## 🌐 Tillar va shaxsiy sifatlar
-
-<div align="center">
-
-| Til | Daraja |
-|:---|:---|
-| 🇺🇿 O'zbek | Ona tili |
-| 🇬🇧 Ingliz | A2 — texnik matnlarni o'qish |
-
-</div>
-
-> 🎯 Tez o'rganish va moslashuvchanlik &nbsp;•&nbsp; Mas'uliyat va intizom &nbsp;•&nbsp; Muammoga yechim topishga yo'naltirilgan yondashuv &nbsp;•&nbsp; Jarayonlarni rejalashtirish va avtomatlashtirish &nbsp;•&nbsp; Natijaga yo'naltirilganlik
-
----
-
-## 📬 Bog'lanish
-
-<div align="center">
-
-Yangi loyihalar, hamkorlik yoki ish takliflari uchun — bemalol yozing 👇
-
-<a href="https://t.me/voxidjonovabduxalil"><img src="https://img.shields.io/badge/@voxidjonovabduxalil-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="mailto:abduhalilvohidjonov@gmail.com"><img src="https://img.shields.io/badge/abduhalilvohidjonov@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-<br/><br/>
-
-<i>Ish safarlariga tayyorman ✈️</i>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f81f7,50:1f6feb,100:0d1117&height=120&section=footer" width="100%" />
 
