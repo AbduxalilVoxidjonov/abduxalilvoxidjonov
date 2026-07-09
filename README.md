@@ -238,16 +238,16 @@ Windows uchun desktop (`.exe`) ilova — GSM-to-VoIP tizimida ishlaydigan call-m
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AbduxalilVoxidjonov&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2f81f7&icon_color=2f81f7" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbduxalilVoxidjonov&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2f81f7" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AbduxalilVoxidjonov&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2f81f7&icon_color=2f81f7" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbduxalilVoxidjonov&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2f81f7" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbduxalilVoxidjonov&theme=github-dark-blue&hide_border=true&background=0d1117&ring=2f81f7&fire=f38020&currStreakLabel=2f81f7" />
+<img src="https://streak-stats.demolab.com/?user=AbduxalilVoxidjonov&theme=github-dark-blue&hide_border=true&background=0d1117&ring=2f81f7&fire=f38020&currStreakLabel=2f81f7" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=AbduxalilVoxidjonov&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbduxalilVoxidjonov&theme=github-compact&bg_color=0d1117&color=2f81f7&line=2f81f7&point=39d353&area=true&hide_border=true" width="100%" />
 
 </div>
 
